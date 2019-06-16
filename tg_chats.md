@@ -9,6 +9,8 @@
 - [Профессиональные встречи QA Engineer в Ростове-на-Дону](https://tglink.ru/usetalk)
 - [Kotlin Rostov User Group](https://tglink.ru/rndkotlin)
 - [Геймдев в Ростове-на-Дону 👾](https://tglink.ru/gamedevrnd)
+- [Вакансии](https://tglink.ru/it_61job)
+- [Оффтопик](https://tglink.ru/it61_offtopic)
 
 ## Таганрог
 - [Таганрогское JavaScript сообщество](https://tglink.ru/js_tgn)
