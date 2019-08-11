@@ -1,0 +1,11 @@
+{
+  "name": "it61-docs",
+  "private": true,
+  "scripts": {
+    "test": "yaspeller ."
+  },
+  "dependencies": {
+    "lint-staged": "^9.2.1",
+    "yaspeller": "^6.0.0"
+  }
+}
