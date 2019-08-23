@@ -24,6 +24,8 @@
 - [Offtopic](https://tglink.ru/it61_offtopic)
 - [Чат по Angular](https://tglink.ru/ngrostov)
 - [Цитатник](https://tglink.ru/it61_quotes)
+- [Чат участников встреч RndTech](https://tglink.ru/rndtechchat)
+- [Канал с IT-событиями](https://tglink.ru/rndtechevents)
 
 ## Slack
 
