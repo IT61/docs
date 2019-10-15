@@ -26,6 +26,7 @@
 - [Цитатник](https://tglink.ru/it61_quotes)
 - [Чат участников встреч RndTech](https://tglink.ru/rndtechchat)
 - [Канал с IT-событиями](https://tglink.ru/rndtechevents)
+- [Rnd PHP](https://tglink.ru/rndphp)
 
 ## Slack
 
