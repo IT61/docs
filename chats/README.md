@@ -15,7 +15,7 @@
 - [Таганрогское JavaScript сообщество](https://tglink.ru/js_tgn)
 - [&#955;61](https://tglink.ru/lambda61)
 - [Rostov Ruby User Group](https://tglink.ru/rndrug)
-- [PythonNest Rostov](https://tglink.ru/PythonRostov)
+- [Python Nest Rostov](https://tglink.ru/PythonRostov)
 - [Py61 (тоже python)](https://tglink.ru/py_61)
 - [Профессиональные встречи QA Engineer в Ростове-на-Дону](https://tglink.ru/usetalk)
 - [Kotlin Rostov User Group](https://tglink.ru/rndkotlin)
