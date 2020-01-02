@@ -4,7 +4,7 @@
 
 У нас есть три основных канала:
 
-- [Основной канал](https://tglink.ru/it61)
+- [Основной канал](https://tglink.ru/it_61)
   - [Правила основного канала](./tg_rules.md)
 - [Вакансии](https://tglink.ru/it_61job)
 - [Offtopic](https://tglink.ru/it61_offtopic)
