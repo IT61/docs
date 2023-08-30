@@ -12,11 +12,11 @@
 И есть еще чаты тематических и локальных сообществ Ростовской области
 
 - [RND.JS](https://tglink.ru/jsweekdays)
-- [Таганрогское JavaScript сообщество](https://tglink.ru/js_tgn)
+- [Таганрогское JavaScript сообщество ???](?)
 - [&#955;61](https://tglink.ru/lambda61)
 - [Rostov Ruby User Group](https://tglink.ru/rndrug)
-- [Python Nest Rostov](https://tglink.ru/PythonRostov)
-- [Py61 (тоже python)](https://tglink.ru/py_61)
+- [Python Nest Rostov - invitation](https://t.me/+aqfalVALmR9lZDUy)
+- [Py61 (тоже python) ???](?)
 - [Профессиональный чат QA специалистов города Ростова-на-Дону](https://tglink.ru/qarostov)
 - [Kotlin Rostov User Group](https://tglink.ru/rndkotlin)
 - [Game development в Ростове-на-Дону 👾](https://tglink.ru/gamedevrostov)
